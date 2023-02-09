@@ -1,15 +1,15 @@
 
-### Hi there 👋
+### Mon profil 👋
 
-I am a full stack web developer. My experience has provided me with the experience and technical skills necessary to successfully support a company and its IT team with appropriate and sustainable software solutions in any web platform.
+Développeur full stack, avec plus de 1 an d’expérience. Passionné d’informatique, j’ai appris à coder dès le collège dans divers langages informatiques (Javascript, NodeJS…) et j'ai créé des projets personnels, dont un portfolio, un blog, un forum. Polyvalent, je maîtrise les différentes étapes techniques de la création d’un site; de la compréhension des besoins utilisateurs, au développement frontend et backend en passant par la maintenance. J'écris actuellement un Ebook sur le Javascript.
 
 
 
-#### Connect with me:
+#### Communiquez avec moi :
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyleborgne) 
 
 
-#### technology
+#### Technologies
 
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
